@@ -1,0 +1,1 @@
+# qrcode-generator-by-url
